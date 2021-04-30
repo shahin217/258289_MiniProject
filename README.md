@@ -8,8 +8,10 @@ Assume that a programmer works at the office from 9am-6pm. We have to take care 
 *	To have a break for one hour at 2pm.
 *	To come back at 3pm.
 *	Over time at 6pm.
+
 The task is to create a program that plays mp3 audio until the programmer enters the input which implies that he is notified to do some activity.
 User should enter “done” to stop the audio.
+
 After the user enters the input, a file (log file) should be created for every task, which contains the details about the time when the user performed a certain activity.
 
 ## INSTRUCTIONS
